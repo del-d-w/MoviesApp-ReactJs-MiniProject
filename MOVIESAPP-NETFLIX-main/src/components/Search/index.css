@@ -1,0 +1,8 @@
+.search-route {
+  background-color: black;
+  min-height: 100vh;
+}
+.failure-view {
+  padding-top: 80px;
+  color: white;
+}
